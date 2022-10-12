@@ -131,3 +131,5 @@ dmypy.json
 # folders 
 images/*
 dataset/*
+logs/*
+training_checkpoints/*
