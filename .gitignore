@@ -132,4 +132,6 @@ dmypy.json
 images/*
 dataset/*
 logs/*
+logs_hsv/*
 training_checkpoints/*
+training_checkpoints_hsv/*
