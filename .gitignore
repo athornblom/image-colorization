@@ -135,3 +135,4 @@ logs/*
 logs_hsv/*
 training_checkpoints/*
 training_checkpoints_hsv/*
+training_monday_fm/*
