@@ -133,9 +133,13 @@ images/*
 dataset/*
 logs/*
 logs2/*
+logs_trucks/*
 logs_hsv/*
 training_checkpoints/*
 training_checkpoints2/*
 training_checkpoints_hsv/*
 training_monday_fm/*
 training_wendesday/*
+training_wednesday/*
+training_img/*
+OLD/*
